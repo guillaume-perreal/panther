@@ -1,0 +1,41 @@
+{
+  "symbol-whitelist": [
+    "null",
+    "true",
+    "false",
+    "static",
+    "self",
+    "parent",
+    "array",
+    "string",
+    "int",
+    "float",
+    "bool",
+    "iterable",
+    "callable",
+    "void",
+    "object",
+    "Goutte\\Client",
+    "GuzzleHttp\\Client",
+    "PHPUnit\\Framework\\AssertionFailedError",
+    "PHPUnit\\Framework\\Test",
+    "PHPUnit\\Framework\\TestCase",
+    "PHPUnit\\Framework\\TestListener",
+    "PHPUnit\\Framework\\TestListenerDefaultImplementation",
+    "PHPUnit\\Framework\\TestSuite",
+    "PHPUnit\\Runner\\AfterLastTestHook",
+    "PHPUnit\\Runner\\AfterTestErrorHook",
+    "PHPUnit\\Runner\\AfterTestFailureHook",
+    "PHPUnit\\Runner\\BeforeFirstTestHook"
+  ],
+  "php-core-extensions": [
+    "Core",
+    "date",
+    "pcre",
+    "Phar",
+    "Reflection",
+    "SPL",
+    "standard"
+  ],
+  "scan-files": []
+}
