@@ -26,7 +26,8 @@
     "PHPUnit\\Runner\\AfterLastTestHook",
     "PHPUnit\\Runner\\AfterTestErrorHook",
     "PHPUnit\\Runner\\AfterTestFailureHook",
-    "PHPUnit\\Runner\\BeforeFirstTestHook"
+    "PHPUnit\\Runner\\BeforeFirstTestHook",
+    "Symfony\\Bundle\\FrameworkBundle\\Test\\ForwardCompatTestTrait"
   ],
   "php-core-extensions": [
     "Core",
